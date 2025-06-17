@@ -1,0 +1,2 @@
+# ikuuu-config
+vpn
